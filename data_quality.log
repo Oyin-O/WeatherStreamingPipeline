@@ -1006,3 +1006,19 @@
 2026-03-05 14:52:31,348 [INFO] [Null Fields] No nulls detected in batch 41 ✓
 2026-03-05 14:52:31,349 [INFO] [Duplicates] No duplicates in batch 41 ✓
 2026-03-05 14:52:31,349 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 20:41:08,703 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 20:41:09,006 [WARNING] ⚠️ [Pipeline Lag] Stale data: Abuja (349m ago), Kano (349m ago), Ibadan (349m ago), Port Harcourt (349m ago), Benin City (349m ago), Maiduguri (349m ago), Jos (349m ago), Enugu (349m ago), Kaduna (349m ago), Accra (349m ago), Nairobi (349m ago), Cape Town (349m ago), Johannesburg (349m ago), Cairo (349m ago), Addis Ababa (349m ago), Dakar (349m ago), Lagos (349m ago)
+2026-03-05 20:42:34,594 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 20:42:34,931 [WARNING] ⚠️ [Pipeline Lag] Stale data: Abuja (350m ago), Kano (350m ago), Ibadan (350m ago), Port Harcourt (350m ago), Benin City (350m ago), Maiduguri (350m ago), Jos (350m ago), Enugu (350m ago), Kaduna (350m ago), Accra (350m ago), Nairobi (350m ago), Cape Town (350m ago), Johannesburg (350m ago), Cairo (350m ago), Addis Ababa (350m ago), Dakar (350m ago), Lagos (350m ago)
+2026-03-05 20:43:32,440 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 20:43:32,441 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 20:43:32,441 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 20:43:32,442 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 20:44:31,393 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 20:44:31,394 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 20:44:31,394 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 20:44:31,394 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 20:45:31,473 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 20:45:31,475 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 20:45:31,475 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 20:45:31,475 [INFO] [Temperature Anomaly] All temperatures within range ✓

@@ -4,10 +4,9 @@ import os
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime, timezone
-from dotenv import load_dotenv
 import streamlit as st
 
-load_dotenv()
+
 
 logger = logging.getLogger(__name__)
 
@@ -17,6 +16,7 @@ try:
     GMAIL_PASSWORD = st.secrets["GMAIL_PASSWORD"]
     GMAIL_RECIPIENT = st.secrets["GMAIL_RECIPIENT"]
 except Exception:
+    from dotenv import load_dotenv
     load_dotenv()
     GMAIL_SENDER = os.getenv("GMAIL_SENDER")
     GMAIL_PASSWORD = os.getenv("GMAIL_PASSWORD")

@@ -335,3 +335,11 @@
 2026-03-05 14:52:30,078 [INFO] 🔍 Checking pipeline lag / data freshness...
 2026-03-05 14:52:30,559 [WARNING] ⚠️ [Pipeline Lag] Stale data: Abuja (12m ago), Kano (12m ago), Ibadan (12m ago), Port Harcourt (12m ago), Benin City (12m ago), Maiduguri (12m ago), Jos (12m ago), Enugu (12m ago), Kaduna (12m ago), Accra (12m ago), Nairobi (12m ago), Cape Town (12m ago), Johannesburg (12m ago), Cairo (12m ago), Addis Ababa (12m ago), Dakar (12m ago), Lagos (12m ago)
 2026-03-05 14:52:31,838 [INFO] Email sent: ❌ Weather Pipeline Error
+2026-03-05 20:41:08,702 [INFO] 🔍 Pipeline Lag Monitor started — checking every 5 minutes
+2026-03-05 20:41:08,703 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 20:41:09,006 [WARNING] ⚠️ [Pipeline Lag] Stale data: Abuja (349m ago), Kano (349m ago), Ibadan (349m ago), Port Harcourt (349m ago), Benin City (349m ago), Maiduguri (349m ago), Jos (349m ago), Enugu (349m ago), Kaduna (349m ago), Accra (349m ago), Nairobi (349m ago), Cape Town (349m ago), Johannesburg (349m ago), Cairo (349m ago), Addis Ababa (349m ago), Dakar (349m ago), Lagos (349m ago)
+2026-03-05 20:41:10,375 [INFO] Email sent: ❌ Weather Pipeline Error
+2026-03-05 20:42:34,591 [INFO] 🔍 Pipeline Lag Monitor started — checking every 5 minutes
+2026-03-05 20:42:34,594 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 20:42:34,931 [WARNING] ⚠️ [Pipeline Lag] Stale data: Abuja (350m ago), Kano (350m ago), Ibadan (350m ago), Port Harcourt (350m ago), Benin City (350m ago), Maiduguri (350m ago), Jos (350m ago), Enugu (350m ago), Kaduna (350m ago), Accra (350m ago), Nairobi (350m ago), Cape Town (350m ago), Johannesburg (350m ago), Cairo (350m ago), Addis Ababa (350m ago), Dakar (350m ago), Lagos (350m ago)
+2026-03-05 20:42:35,963 [INFO] Email sent: ❌ Weather Pipeline Error
