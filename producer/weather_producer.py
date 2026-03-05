@@ -10,6 +10,8 @@ from kafka.errors import NoBrokersAvailable
 from producer.config import KAFKA_BOOTSTRAP_SERVERS, CITIES, KAFKA_TOPIC, \
     API_BASE_URL, POLL_INTERVAL_SECONDS, WEATHER_PARAMS
 
+from spark.email_alerts import send_pipeline_error
+
 sys.path.insert(0, '.')
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -111,8 +113,10 @@ def run():
             logger.info(f'Published weather of {published}/{len(records)} cities')
         except requests.RequestException as e:
             logger.error(f'API request failed: {e}')
+            send_pipeline_error(f"API request failed: {e}")
         except Exception as e:
             logger.error(f'Unexpected Error: {e}')
+            send_pipeline_error(f"Producer unexpected error: {e}")
 
         time.sleep(POLL_INTERVAL_SECONDS)
 

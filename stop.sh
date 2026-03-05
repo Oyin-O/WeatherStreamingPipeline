@@ -20,6 +20,8 @@ echo -e "${YELLOW}▶ Stopping Producer & Spark Consumer...${NC}"
 pkill -f "weather_producer"
 pkill -f "sparkconsumer"
 pkill -f "streamlit"
+pkill -f "spark.monitor"
+pkill -f "spark.scheduler"
 echo -e "${GREEN}✅ All Python processes stopped${NC}"
 
 echo ""

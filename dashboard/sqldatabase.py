@@ -1,12 +1,12 @@
 import psycopg2
 import pandas as pd
-from dbconfig import DB_URL
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
 
-print(DB_URL)
+DB_URL = os.getenv('DB_URL')
+
 
 def _get_connection():
     try:
@@ -35,8 +35,9 @@ def get_weather_history(cities: list[str] = None, hours: int = 6) -> pd.DataFram
         return pd.DataFrame()
     try:
         query = """
-            SELECT * FROM weather_history
-            WHERE timestamp >= NOW() - INTERVAL '%s hours'
+            SELECT *, CAST(timestamp AS TIMESTAMP) as parsed_time
+            FROM weather_history
+            WHERE CAST(timestamp AS TIMESTAMP) >= NOW() - (%s * INTERVAL '1 hour')
         """
         params = [hours]
 
@@ -45,7 +46,10 @@ def get_weather_history(cities: list[str] = None, hours: int = 6) -> pd.DataFram
             query += f" AND city IN ({placeholders})"
             params.extend(cities)
 
+        query += " ORDER BY parsed_time ASC"
+
         df = pd.read_sql_query(query, conn, params=params)
+        df['timestamp'] = pd.to_datetime(df['parsed_time'])
         return df
 
     except Exception:
@@ -60,10 +64,14 @@ def get_active_alerts() -> pd.DataFrame:
         return pd.DataFrame()
     try:
         df = pd.read_sql_query("""
-            SELECT * FROM weather_alerts
-            WHERE timestamp >= NOW() - INTERVAL '6 hours'
-            ORDER BY timestamp DESC
-        """, conn)
+                    SELECT DISTINCT ON (city) 
+                        city, timestamp, alert_level, alert_message
+                    FROM weather_alerts
+                    WHERE CAST(timestamp AS TIMESTAMP) >= NOW() - INTERVAL '6 hours'
+                    AND alert_level != 'normal'
+                    ORDER BY city, CAST(timestamp AS TIMESTAMP) DESC
+                """, conn)
+
         return df
     except Exception:
         return pd.DataFrame()

@@ -73,7 +73,19 @@ CITY_TIMEZONES = {
     "Addis Ababa": "Africa/Addis_Ababa",
 
     # Senegal (GMT - UTC+0)
-    "Dakar": "Africa/Dakar",
+    "Dakar": "Africa/Dakar"
 }
 
 DEFAULT_TZ = "UTC"
+
+# ── Data Quality ─────────────────────────────────────────────
+DATA_QUALITY = {
+    "temp_min": -10,
+    "temp_max": 55,
+    "max_lag_minutes": 10,
+    "critical_fields": [
+        'temperature_c', 'wind_speed_kmh',
+        'weather_code', 'humidity_pct',
+        'apparent_temperature_c'
+    ]
+}

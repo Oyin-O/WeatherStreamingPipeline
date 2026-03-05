@@ -1,0 +1,966 @@
+2026-03-05 01:26:37,638 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:26:37,839 [WARNING] [Pipeline Lag] Stale data: Dakar (52m ago), Accra (52m ago)
+2026-03-05 01:27:32,660 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:27:32,660 [INFO] [Null Fields] No nulls detected in batch 253 ✓
+2026-03-05 01:27:32,660 [INFO] [Duplicates] No duplicates in batch 253 ✓
+2026-03-05 01:27:32,660 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:28:31,541 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:28:31,542 [INFO] [Null Fields] No nulls detected in batch 254 ✓
+2026-03-05 01:28:31,542 [INFO] [Duplicates] No duplicates in batch 254 ✓
+2026-03-05 01:28:31,542 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:30:32,490 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:30:32,835 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 01:31:32,827 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:31:32,828 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 01:31:32,828 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 01:31:32,828 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:31:39,051 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:31:39,257 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 01:32:31,467 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:32:31,467 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 01:32:31,467 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 01:32:31,468 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:33:31,439 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:33:31,440 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 01:33:31,440 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 01:33:31,440 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:34:31,361 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:34:31,361 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 01:34:31,361 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 01:34:31,361 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:35:32,865 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:35:33,419 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 01:36:39,323 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:36:39,554 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 01:40:33,451 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:40:33,740 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 01:41:39,578 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:41:39,800 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 01:45:33,761 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:45:34,067 [WARNING] [Pipeline Lag] Stale data: Dakar (11m ago), Accra (11m ago)
+2026-03-05 01:46:39,833 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:46:40,056 [WARNING] [Pipeline Lag] Stale data: Dakar (12m ago), Accra (12m ago)
+2026-03-05 01:50:35,522 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:50:36,009 [WARNING] [Pipeline Lag] Stale data: Dakar (16m ago), Accra (16m ago)
+2026-03-05 01:51:41,148 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:51:41,340 [WARNING] [Pipeline Lag] Stale data: Dakar (17m ago), Accra (17m ago)
+2026-03-05 01:56:06,923 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:56:07,122 [CRITICAL] [Pipeline Lag] No data in current_weather table!
+2026-03-05 01:56:21,756 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:56:21,976 [CRITICAL] 🔴 [Pipeline Lag] No data in current_weather table!
+2026-03-05 01:56:42,387 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 01:56:42,605 [CRITICAL] [Pipeline Lag] No data in current_weather table!
+2026-03-05 01:57:32,635 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:57:32,635 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 01:57:32,635 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 01:57:32,635 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:58:31,427 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:58:31,428 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 01:58:31,428 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 01:58:31,428 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 01:59:31,304 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 01:59:31,305 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 01:59:31,305 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 01:59:31,305 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:00:31,292 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:00:31,293 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 02:00:31,293 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 02:00:31,293 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:01:07,146 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:01:07,407 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:01:22,004 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:01:22,245 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:01:32,053 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:01:32,054 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 02:01:32,054 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 02:01:32,054 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:01:42,641 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:01:42,862 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:02:31,295 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:02:31,296 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 02:02:31,296 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 02:02:31,296 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:03:31,268 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:03:31,269 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 02:03:31,269 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 02:03:31,269 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:04:31,274 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:04:31,275 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 02:04:31,275 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 02:04:31,275 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:05:31,272 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:05:31,273 [INFO] [Null Fields] No nulls detected in batch 9 ✓
+2026-03-05 02:05:31,273 [INFO] [Duplicates] No duplicates in batch 9 ✓
+2026-03-05 02:05:31,274 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:06:07,436 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:06:07,680 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:06:22,278 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:06:22,486 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:06:31,248 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:06:31,248 [INFO] [Null Fields] No nulls detected in batch 10 ✓
+2026-03-05 02:06:31,248 [INFO] [Duplicates] No duplicates in batch 10 ✓
+2026-03-05 02:06:31,248 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:07:12,783 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:07:12,966 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:07:31,286 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:07:31,287 [INFO] [Null Fields] No nulls detected in batch 11 ✓
+2026-03-05 02:07:31,288 [INFO] [Duplicates] No duplicates in batch 11 ✓
+2026-03-05 02:07:31,288 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:08:31,244 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:08:31,245 [INFO] [Null Fields] No nulls detected in batch 12 ✓
+2026-03-05 02:08:31,245 [INFO] [Duplicates] No duplicates in batch 12 ✓
+2026-03-05 02:08:31,246 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:09:31,244 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:09:31,245 [INFO] [Null Fields] No nulls detected in batch 13 ✓
+2026-03-05 02:09:31,246 [INFO] [Duplicates] No duplicates in batch 13 ✓
+2026-03-05 02:09:31,246 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:10:31,261 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:10:31,262 [INFO] [Null Fields] No nulls detected in batch 14 ✓
+2026-03-05 02:10:31,262 [INFO] [Duplicates] No duplicates in batch 14 ✓
+2026-03-05 02:10:31,262 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:11:31,239 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:11:31,240 [INFO] [Null Fields] No nulls detected in batch 15 ✓
+2026-03-05 02:11:31,240 [INFO] [Duplicates] No duplicates in batch 15 ✓
+2026-03-05 02:11:31,240 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:11:37,579 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:11:37,790 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:11:52,385 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:11:52,561 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:12:12,987 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:12:13,176 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:12:31,236 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:12:31,237 [INFO] [Null Fields] No nulls detected in batch 16 ✓
+2026-03-05 02:12:31,238 [INFO] [Duplicates] No duplicates in batch 16 ✓
+2026-03-05 02:12:31,238 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:13:31,242 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:13:31,243 [INFO] [Null Fields] No nulls detected in batch 17 ✓
+2026-03-05 02:13:31,244 [INFO] [Duplicates] No duplicates in batch 17 ✓
+2026-03-05 02:13:31,244 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:14:31,274 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:14:31,275 [INFO] [Null Fields] No nulls detected in batch 18 ✓
+2026-03-05 02:14:31,275 [INFO] [Duplicates] No duplicates in batch 18 ✓
+2026-03-05 02:14:31,275 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:15:31,219 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:15:31,220 [INFO] [Null Fields] No nulls detected in batch 19 ✓
+2026-03-05 02:15:31,220 [INFO] [Duplicates] No duplicates in batch 19 ✓
+2026-03-05 02:15:31,220 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:16:31,230 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:16:31,231 [INFO] [Null Fields] No nulls detected in batch 20 ✓
+2026-03-05 02:16:31,231 [INFO] [Duplicates] No duplicates in batch 20 ✓
+2026-03-05 02:16:31,231 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:16:37,817 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:16:38,049 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:16:52,632 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:16:52,833 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:17:13,195 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:17:13,419 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:17:31,430 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:17:31,431 [INFO] [Null Fields] No nulls detected in batch 21 ✓
+2026-03-05 02:17:31,431 [INFO] [Duplicates] No duplicates in batch 21 ✓
+2026-03-05 02:17:31,431 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:18:31,236 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:18:31,238 [INFO] [Null Fields] No nulls detected in batch 22 ✓
+2026-03-05 02:18:31,238 [INFO] [Duplicates] No duplicates in batch 22 ✓
+2026-03-05 02:18:31,238 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:19:31,228 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:19:31,229 [INFO] [Null Fields] No nulls detected in batch 23 ✓
+2026-03-05 02:19:31,229 [INFO] [Duplicates] No duplicates in batch 23 ✓
+2026-03-05 02:19:31,229 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:20:31,385 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:20:31,386 [INFO] [Null Fields] No nulls detected in batch 24 ✓
+2026-03-05 02:20:31,386 [INFO] [Duplicates] No duplicates in batch 24 ✓
+2026-03-05 02:20:31,386 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:21:31,202 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:21:31,202 [INFO] [Null Fields] No nulls detected in batch 25 ✓
+2026-03-05 02:21:31,202 [INFO] [Duplicates] No duplicates in batch 25 ✓
+2026-03-05 02:21:31,202 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 02:21:38,076 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:21:38,309 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:21:52,852 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:21:53,090 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:22:13,444 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 02:22:13,684 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 02:22:31,205 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 02:22:31,205 [INFO] [Null Fields] No nulls detected in batch 26 ✓
+2026-03-05 02:22:31,205 [INFO] [Duplicates] No duplicates in batch 26 ✓
+2026-03-05 02:22:31,205 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 04:23:18,222 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 04:23:20,118 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (121m ago), Accra (121m ago), Nairobi (121m ago), Cape Town (121m ago), Johannesburg (121m ago), Cairo (121m ago), Addis Ababa (121m ago), Lagos (121m ago), Abuja (121m ago), Kano (121m ago), Ibadan (121m ago), Port Harcourt (121m ago), Benin City (121m ago), Maiduguri (121m ago), Jos (121m ago), Enugu (121m ago), Dakar (121m ago)
+2026-03-05 05:23:26,315 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 05:23:27,244 [WARNING] [Pipeline Lag] Stale data: Kaduna (181m ago), Accra (181m ago), Nairobi (181m ago), Cape Town (181m ago), Johannesburg (181m ago), Cairo (181m ago), Addis Ababa (181m ago), Lagos (181m ago), Abuja (181m ago), Kano (181m ago), Ibadan (181m ago), Port Harcourt (181m ago), Benin City (181m ago), Maiduguri (181m ago), Jos (181m ago), Enugu (181m ago), Dakar (181m ago)
+2026-03-05 06:24:29,901 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 06:24:29,901 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 06:24:31,629 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (242m ago), Accra (242m ago), Nairobi (242m ago), Cape Town (242m ago), Johannesburg (242m ago), Cairo (242m ago), Addis Ababa (242m ago), Lagos (242m ago), Abuja (242m ago), Kano (242m ago), Ibadan (242m ago), Port Harcourt (242m ago), Benin City (242m ago), Maiduguri (242m ago), Jos (242m ago), Enugu (242m ago), Dakar (242m ago)
+2026-03-05 06:24:31,630 [WARNING] [Pipeline Lag] Stale data: Kaduna (242m ago), Accra (242m ago), Nairobi (242m ago), Cape Town (242m ago), Johannesburg (242m ago), Cairo (242m ago), Addis Ababa (242m ago), Lagos (242m ago), Abuja (242m ago), Kano (242m ago), Ibadan (242m ago), Port Harcourt (242m ago), Benin City (242m ago), Maiduguri (242m ago), Jos (242m ago), Enugu (242m ago), Dakar (242m ago)
+2026-03-05 08:26:44,415 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 08:26:44,414 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 08:26:44,414 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 08:26:45,171 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (364m ago), Accra (364m ago), Nairobi (364m ago), Cape Town (364m ago), Johannesburg (364m ago), Cairo (364m ago), Addis Ababa (364m ago), Lagos (364m ago), Abuja (364m ago), Kano (364m ago), Ibadan (364m ago), Port Harcourt (364m ago), Benin City (364m ago), Maiduguri (364m ago), Jos (364m ago), Enugu (364m ago), Dakar (364m ago)
+2026-03-05 08:26:45,171 [WARNING] [Pipeline Lag] Stale data: Kaduna (364m ago), Accra (364m ago), Nairobi (364m ago), Cape Town (364m ago), Johannesburg (364m ago), Cairo (364m ago), Addis Ababa (364m ago), Lagos (364m ago), Abuja (364m ago), Kano (364m ago), Ibadan (364m ago), Port Harcourt (364m ago), Benin City (364m ago), Maiduguri (364m ago), Jos (364m ago), Enugu (364m ago), Dakar (364m ago)
+2026-03-05 08:26:45,173 [WARNING] [Pipeline Lag] Stale data: Kaduna (364m ago), Accra (364m ago), Nairobi (364m ago), Cape Town (364m ago), Johannesburg (364m ago), Cairo (364m ago), Addis Ababa (364m ago), Lagos (364m ago), Abuja (364m ago), Kano (364m ago), Ibadan (364m ago), Port Harcourt (364m ago), Benin City (364m ago), Maiduguri (364m ago), Jos (364m ago), Enugu (364m ago), Dakar (364m ago)
+2026-03-05 10:23:58,084 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:23:58,316 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:23:58,577 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (482m ago), Accra (482m ago), Nairobi (482m ago), Cape Town (482m ago), Johannesburg (482m ago), Cairo (482m ago), Addis Ababa (482m ago), Lagos (482m ago), Abuja (482m ago), Kano (482m ago), Ibadan (482m ago), Port Harcourt (482m ago), Benin City (482m ago), Maiduguri (482m ago), Jos (482m ago), Enugu (482m ago), Dakar (482m ago)
+2026-03-05 10:23:58,577 [WARNING] [Pipeline Lag] Stale data: Kaduna (482m ago), Accra (482m ago), Nairobi (482m ago), Cape Town (482m ago), Johannesburg (482m ago), Cairo (482m ago), Addis Ababa (482m ago), Lagos (482m ago), Abuja (482m ago), Kano (482m ago), Ibadan (482m ago), Port Harcourt (482m ago), Benin City (482m ago), Maiduguri (482m ago), Jos (482m ago), Enugu (482m ago), Dakar (482m ago)
+2026-03-05 10:23:58,784 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:24:33,227 [WARNING] [Pipeline Lag] Stale data: Kaduna (482m ago), Accra (482m ago), Nairobi (482m ago), Cape Town (482m ago), Johannesburg (482m ago), Cairo (482m ago), Addis Ababa (482m ago), Lagos (482m ago), Abuja (482m ago), Kano (482m ago), Ibadan (482m ago), Port Harcourt (482m ago), Benin City (482m ago), Maiduguri (482m ago), Jos (482m ago), Enugu (482m ago), Dakar (482m ago)
+2026-03-05 10:27:08,217 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:27:08,416 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (485m ago), Accra (485m ago), Nairobi (485m ago), Cape Town (485m ago), Johannesburg (485m ago), Cairo (485m ago), Addis Ababa (485m ago), Lagos (485m ago), Abuja (485m ago), Kano (485m ago), Ibadan (485m ago), Port Harcourt (485m ago), Benin City (485m ago), Maiduguri (485m ago), Jos (485m ago), Enugu (485m ago), Dakar (485m ago)
+2026-03-05 10:28:02,330 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:28:02,331 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 10:28:02,331 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 10:28:02,331 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:29:01,318 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:29:01,318 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 10:29:01,318 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 10:29:01,319 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:29:34,494 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:29:34,674 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:29:34,750 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:29:34,932 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:29:36,410 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:29:36,651 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:30:01,333 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:30:01,334 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 10:30:01,334 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 10:30:01,334 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:31:01,273 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:31:01,273 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 10:31:01,274 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 10:31:01,274 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:32:01,257 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:32:01,258 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 10:32:01,258 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 10:32:01,258 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:32:09,534 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:32:09,767 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:33:01,250 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:33:01,251 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 10:33:01,251 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 10:33:01,251 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:34:10,463 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:34:10,463 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 10:34:10,463 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 10:34:10,463 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:52:03,709 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:52:03,889 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (18m ago), Accra (18m ago), Nairobi (18m ago), Cape Town (18m ago), Johannesburg (18m ago), Cairo (18m ago), Addis Ababa (18m ago), Dakar (18m ago), Lagos (18m ago), Abuja (18m ago), Kano (18m ago), Ibadan (18m ago), Port Harcourt (18m ago), Benin City (18m ago), Maiduguri (18m ago), Jos (18m ago), Enugu (18m ago)
+2026-03-05 10:52:03,891 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:52:04,090 [WARNING] [Pipeline Lag] Stale data: Kaduna (18m ago), Accra (18m ago), Nairobi (18m ago), Cape Town (18m ago), Johannesburg (18m ago), Cairo (18m ago), Addis Ababa (18m ago), Dakar (18m ago), Lagos (18m ago), Abuja (18m ago), Kano (18m ago), Ibadan (18m ago), Port Harcourt (18m ago), Benin City (18m ago), Maiduguri (18m ago), Jos (18m ago), Enugu (18m ago)
+2026-03-05 10:52:05,608 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:52:05,842 [WARNING] [Pipeline Lag] Stale data: Kaduna (18m ago), Accra (18m ago), Nairobi (18m ago), Cape Town (18m ago), Johannesburg (18m ago), Cairo (18m ago), Addis Ababa (18m ago), Dakar (18m ago), Lagos (18m ago), Abuja (18m ago), Kano (18m ago), Ibadan (18m ago), Port Harcourt (18m ago), Benin City (18m ago), Maiduguri (18m ago), Jos (18m ago), Enugu (18m ago)
+2026-03-05 10:52:08,707 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:52:08,899 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (18m ago), Accra (18m ago), Nairobi (18m ago), Cape Town (18m ago), Johannesburg (18m ago), Cairo (18m ago), Addis Ababa (18m ago), Dakar (18m ago), Lagos (18m ago), Abuja (18m ago), Kano (18m ago), Ibadan (18m ago), Port Harcourt (18m ago), Benin City (18m ago), Maiduguri (18m ago), Jos (18m ago), Enugu (18m ago)
+2026-03-05 10:52:31,283 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:52:31,284 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 10:52:31,284 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 10:52:31,284 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:53:31,242 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:53:31,242 [INFO] [Null Fields] No nulls detected in batch 9 ✓
+2026-03-05 10:53:31,242 [INFO] [Duplicates] No duplicates in batch 9 ✓
+2026-03-05 10:53:31,242 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:54:31,231 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:54:31,232 [INFO] [Null Fields] No nulls detected in batch 10 ✓
+2026-03-05 10:54:31,232 [INFO] [Duplicates] No duplicates in batch 10 ✓
+2026-03-05 10:54:31,233 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:55:31,729 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:55:31,730 [INFO] [Null Fields] No nulls detected in batch 11 ✓
+2026-03-05 10:55:31,730 [INFO] [Duplicates] No duplicates in batch 11 ✓
+2026-03-05 10:55:31,730 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:56:31,279 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:56:31,280 [INFO] [Null Fields] No nulls detected in batch 12 ✓
+2026-03-05 10:56:31,280 [INFO] [Duplicates] No duplicates in batch 12 ✓
+2026-03-05 10:56:31,280 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:57:04,956 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:57:05,197 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:57:05,299 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:57:05,577 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:57:06,827 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:57:07,073 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:57:09,986 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 10:57:10,189 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 10:57:31,277 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:57:31,277 [INFO] [Null Fields] No nulls detected in batch 13 ✓
+2026-03-05 10:57:31,277 [INFO] [Duplicates] No duplicates in batch 13 ✓
+2026-03-05 10:57:31,277 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:58:31,216 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:58:31,216 [INFO] [Null Fields] No nulls detected in batch 14 ✓
+2026-03-05 10:58:31,216 [INFO] [Duplicates] No duplicates in batch 14 ✓
+2026-03-05 10:58:31,216 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 10:59:31,228 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 10:59:31,229 [INFO] [Null Fields] No nulls detected in batch 15 ✓
+2026-03-05 10:59:31,229 [INFO] [Duplicates] No duplicates in batch 15 ✓
+2026-03-05 10:59:31,229 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:00:31,235 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:00:31,236 [INFO] [Null Fields] No nulls detected in batch 16 ✓
+2026-03-05 11:00:31,236 [INFO] [Duplicates] No duplicates in batch 16 ✓
+2026-03-05 11:00:31,236 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:01:31,259 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:01:31,260 [INFO] [Null Fields] No nulls detected in batch 17 ✓
+2026-03-05 11:01:31,260 [INFO] [Duplicates] No duplicates in batch 17 ✓
+2026-03-05 11:01:31,260 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:02:05,223 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:02:05,454 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:02:05,653 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:02:05,932 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:02:07,104 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:02:07,385 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:02:10,232 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:02:10,449 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:02:31,336 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:02:31,337 [INFO] [Null Fields] No nulls detected in batch 18 ✓
+2026-03-05 11:02:31,337 [INFO] [Duplicates] No duplicates in batch 18 ✓
+2026-03-05 11:02:31,337 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:03:31,276 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:03:31,277 [INFO] [Null Fields] No nulls detected in batch 19 ✓
+2026-03-05 11:03:31,277 [INFO] [Duplicates] No duplicates in batch 19 ✓
+2026-03-05 11:03:31,277 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:04:31,253 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:04:31,254 [INFO] [Null Fields] No nulls detected in batch 20 ✓
+2026-03-05 11:04:31,254 [INFO] [Duplicates] No duplicates in batch 20 ✓
+2026-03-05 11:04:31,254 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:05:31,298 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:05:31,298 [INFO] [Null Fields] No nulls detected in batch 21 ✓
+2026-03-05 11:05:31,299 [INFO] [Duplicates] No duplicates in batch 21 ✓
+2026-03-05 11:05:31,299 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:06:31,228 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:06:31,229 [INFO] [Null Fields] No nulls detected in batch 22 ✓
+2026-03-05 11:06:31,229 [INFO] [Duplicates] No duplicates in batch 22 ✓
+2026-03-05 11:06:31,229 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:07:05,488 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:07:05,973 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:07:05,990 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:07:06,227 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:07:07,421 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:07:07,654 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:07:10,505 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:07:10,786 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:07:31,258 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:07:31,259 [INFO] [Null Fields] No nulls detected in batch 23 ✓
+2026-03-05 11:07:31,259 [INFO] [Duplicates] No duplicates in batch 23 ✓
+2026-03-05 11:07:31,259 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:08:31,255 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:08:31,256 [INFO] [Null Fields] No nulls detected in batch 24 ✓
+2026-03-05 11:08:31,256 [INFO] [Duplicates] No duplicates in batch 24 ✓
+2026-03-05 11:08:31,256 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:09:31,248 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:09:31,249 [INFO] [Null Fields] No nulls detected in batch 25 ✓
+2026-03-05 11:09:31,249 [INFO] [Duplicates] No duplicates in batch 25 ✓
+2026-03-05 11:09:31,249 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:10:31,318 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:10:31,331 [INFO] [Null Fields] No nulls detected in batch 26 ✓
+2026-03-05 11:10:31,332 [INFO] [Duplicates] No duplicates in batch 26 ✓
+2026-03-05 11:10:31,332 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:11:31,193 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:11:31,193 [INFO] [Null Fields] No nulls detected in batch 27 ✓
+2026-03-05 11:11:31,193 [INFO] [Duplicates] No duplicates in batch 27 ✓
+2026-03-05 11:11:31,193 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:12:06,020 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:12:06,241 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:12:06,256 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:12:06,516 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:12:07,690 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:12:07,953 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:12:10,822 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:12:11,127 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:12:31,448 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:12:31,449 [INFO] [Null Fields] No nulls detected in batch 28 ✓
+2026-03-05 11:12:31,449 [INFO] [Duplicates] No duplicates in batch 28 ✓
+2026-03-05 11:12:31,450 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:13:31,223 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:13:31,224 [INFO] [Null Fields] No nulls detected in batch 29 ✓
+2026-03-05 11:13:31,224 [INFO] [Duplicates] No duplicates in batch 29 ✓
+2026-03-05 11:13:31,224 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:14:31,241 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:14:31,242 [INFO] [Null Fields] No nulls detected in batch 30 ✓
+2026-03-05 11:14:31,242 [INFO] [Duplicates] No duplicates in batch 30 ✓
+2026-03-05 11:14:31,242 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:15:31,219 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:15:31,220 [INFO] [Null Fields] No nulls detected in batch 31 ✓
+2026-03-05 11:15:31,220 [INFO] [Duplicates] No duplicates in batch 31 ✓
+2026-03-05 11:15:31,220 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:16:31,218 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:16:31,218 [INFO] [Null Fields] No nulls detected in batch 32 ✓
+2026-03-05 11:16:31,219 [INFO] [Duplicates] No duplicates in batch 32 ✓
+2026-03-05 11:16:31,219 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:19:25,364 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:19:25,569 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:19:25,636 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:19:26,160 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:19:27,076 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:19:27,859 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:19:30,254 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:19:30,849 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:19:31,215 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:19:31,215 [INFO] [Null Fields] No nulls detected in batch 33 ✓
+2026-03-05 11:19:31,215 [INFO] [Duplicates] No duplicates in batch 33 ✓
+2026-03-05 11:19:31,215 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:20:31,220 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:20:31,221 [INFO] [Null Fields] No nulls detected in batch 34 ✓
+2026-03-05 11:20:31,221 [INFO] [Duplicates] No duplicates in batch 34 ✓
+2026-03-05 11:20:31,221 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:25:12,305 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:25:12,896 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:25:12,935 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:25:13,716 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:25:14,589 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:25:14,950 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:25:17,586 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:25:18,330 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:26:01,251 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:26:01,252 [INFO] [Null Fields] No nulls detected in batch 35 ✓
+2026-03-05 11:26:01,253 [INFO] [Duplicates] No duplicates in batch 35 ✓
+2026-03-05 11:26:01,253 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:27:01,201 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:27:01,201 [INFO] [Null Fields] No nulls detected in batch 36 ✓
+2026-03-05 11:27:01,201 [INFO] [Duplicates] No duplicates in batch 36 ✓
+2026-03-05 11:27:01,201 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:28:01,200 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:28:01,200 [INFO] [Null Fields] No nulls detected in batch 37 ✓
+2026-03-05 11:28:01,200 [INFO] [Duplicates] No duplicates in batch 37 ✓
+2026-03-05 11:28:01,200 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:29:01,200 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:29:01,202 [INFO] [Null Fields] No nulls detected in batch 38 ✓
+2026-03-05 11:29:01,202 [INFO] [Duplicates] No duplicates in batch 38 ✓
+2026-03-05 11:29:01,202 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:30:01,204 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:30:01,204 [INFO] [Null Fields] No nulls detected in batch 39 ✓
+2026-03-05 11:30:01,204 [INFO] [Duplicates] No duplicates in batch 39 ✓
+2026-03-05 11:30:01,204 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:30:12,958 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:30:13,186 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:30:13,739 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:30:13,953 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:30:15,009 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:30:15,216 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:30:18,352 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:30:18,561 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:31:01,181 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:31:01,182 [INFO] [Null Fields] No nulls detected in batch 40 ✓
+2026-03-05 11:31:01,182 [INFO] [Duplicates] No duplicates in batch 40 ✓
+2026-03-05 11:31:01,182 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:32:01,176 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:32:01,176 [INFO] [Null Fields] No nulls detected in batch 41 ✓
+2026-03-05 11:32:01,176 [INFO] [Duplicates] No duplicates in batch 41 ✓
+2026-03-05 11:32:01,176 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:33:01,191 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:33:01,192 [INFO] [Null Fields] No nulls detected in batch 42 ✓
+2026-03-05 11:33:01,192 [INFO] [Duplicates] No duplicates in batch 42 ✓
+2026-03-05 11:33:01,192 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:34:01,276 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:34:01,278 [INFO] [Null Fields] No nulls detected in batch 43 ✓
+2026-03-05 11:34:01,278 [INFO] [Duplicates] No duplicates in batch 43 ✓
+2026-03-05 11:34:01,278 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:35:01,247 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:35:01,248 [INFO] [Null Fields] No nulls detected in batch 44 ✓
+2026-03-05 11:35:01,248 [INFO] [Duplicates] No duplicates in batch 44 ✓
+2026-03-05 11:35:01,248 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:35:13,220 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:35:13,448 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:35:13,978 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:35:14,172 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:35:15,249 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:35:15,449 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:35:18,588 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:35:18,825 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:36:01,209 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:36:01,209 [INFO] [Null Fields] No nulls detected in batch 45 ✓
+2026-03-05 11:36:01,209 [INFO] [Duplicates] No duplicates in batch 45 ✓
+2026-03-05 11:36:01,209 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:37:01,182 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:37:01,182 [INFO] [Null Fields] No nulls detected in batch 46 ✓
+2026-03-05 11:37:01,182 [INFO] [Duplicates] No duplicates in batch 46 ✓
+2026-03-05 11:37:01,183 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:38:01,239 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:38:01,240 [INFO] [Null Fields] No nulls detected in batch 47 ✓
+2026-03-05 11:38:01,240 [INFO] [Duplicates] No duplicates in batch 47 ✓
+2026-03-05 11:38:01,240 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:39:01,214 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:39:01,214 [INFO] [Null Fields] No nulls detected in batch 48 ✓
+2026-03-05 11:39:01,214 [INFO] [Duplicates] No duplicates in batch 48 ✓
+2026-03-05 11:39:01,214 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:40:01,235 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:40:01,236 [INFO] [Null Fields] No nulls detected in batch 49 ✓
+2026-03-05 11:40:01,236 [INFO] [Duplicates] No duplicates in batch 49 ✓
+2026-03-05 11:40:01,236 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:40:13,477 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:40:13,667 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:40:14,213 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:40:14,428 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:40:15,476 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:40:15,657 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:40:18,838 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:40:19,065 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:41:01,291 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:41:01,292 [INFO] [Null Fields] No nulls detected in batch 50 ✓
+2026-03-05 11:41:01,292 [INFO] [Duplicates] No duplicates in batch 50 ✓
+2026-03-05 11:41:01,292 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:42:01,219 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:42:01,219 [INFO] [Null Fields] No nulls detected in batch 51 ✓
+2026-03-05 11:42:01,219 [INFO] [Duplicates] No duplicates in batch 51 ✓
+2026-03-05 11:42:01,220 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:43:01,210 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:43:01,211 [INFO] [Null Fields] No nulls detected in batch 52 ✓
+2026-03-05 11:43:01,211 [INFO] [Duplicates] No duplicates in batch 52 ✓
+2026-03-05 11:43:01,211 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:44:01,236 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:44:01,237 [INFO] [Null Fields] No nulls detected in batch 53 ✓
+2026-03-05 11:44:01,237 [INFO] [Duplicates] No duplicates in batch 53 ✓
+2026-03-05 11:44:01,237 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:45:01,231 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:45:01,232 [INFO] [Null Fields] No nulls detected in batch 54 ✓
+2026-03-05 11:45:01,232 [INFO] [Duplicates] No duplicates in batch 54 ✓
+2026-03-05 11:45:01,232 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:45:13,737 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:45:13,963 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:45:14,508 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:45:14,749 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:45:15,737 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:45:16,012 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:45:19,214 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:45:19,535 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:46:01,237 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:46:01,237 [INFO] [Null Fields] No nulls detected in batch 55 ✓
+2026-03-05 11:46:01,237 [INFO] [Duplicates] No duplicates in batch 55 ✓
+2026-03-05 11:46:01,237 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:47:01,268 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:47:01,269 [INFO] [Null Fields] No nulls detected in batch 56 ✓
+2026-03-05 11:47:01,269 [INFO] [Duplicates] No duplicates in batch 56 ✓
+2026-03-05 11:47:01,269 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:48:01,224 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 11:48:01,224 [INFO] [Null Fields] No nulls detected in batch 57 ✓
+2026-03-05 11:48:01,224 [INFO] [Duplicates] No duplicates in batch 57 ✓
+2026-03-05 11:48:01,224 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 11:50:13,998 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:50:14,384 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:50:14,789 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:50:15,006 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:50:16,042 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:50:16,253 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:50:19,565 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:50:19,829 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:55:40,957 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:55:41,222 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:55:41,573 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:55:41,814 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:55:42,829 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:55:43,019 [INFO] [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 11:55:46,397 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 11:55:46,601 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 12:10:01,931 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:10:02,208 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (22m ago), Accra (22m ago), Nairobi (22m ago), Cape Town (22m ago), Johannesburg (22m ago), Cairo (22m ago), Addis Ababa (22m ago), Dakar (22m ago), Lagos (22m ago), Abuja (22m ago), Kano (22m ago), Ibadan (22m ago), Port Harcourt (22m ago), Benin City (22m ago), Maiduguri (22m ago), Jos (22m ago), Enugu (22m ago)
+2026-03-05 12:10:02,528 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:10:02,711 [WARNING] [Pipeline Lag] Stale data: Kaduna (22m ago), Accra (22m ago), Nairobi (22m ago), Cape Town (22m ago), Johannesburg (22m ago), Cairo (22m ago), Addis Ababa (22m ago), Dakar (22m ago), Lagos (22m ago), Abuja (22m ago), Kano (22m ago), Ibadan (22m ago), Port Harcourt (22m ago), Benin City (22m ago), Maiduguri (22m ago), Jos (22m ago), Enugu (22m ago)
+2026-03-05 12:10:03,738 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:10:03,957 [WARNING] [Pipeline Lag] Stale data: Kaduna (22m ago), Accra (22m ago), Nairobi (22m ago), Cape Town (22m ago), Johannesburg (22m ago), Cairo (22m ago), Addis Ababa (22m ago), Dakar (22m ago), Lagos (22m ago), Abuja (22m ago), Kano (22m ago), Ibadan (22m ago), Port Harcourt (22m ago), Benin City (22m ago), Maiduguri (22m ago), Jos (22m ago), Enugu (22m ago)
+2026-03-05 12:10:07,319 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:10:07,519 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (22m ago), Accra (22m ago), Nairobi (22m ago), Cape Town (22m ago), Johannesburg (22m ago), Cairo (22m ago), Addis Ababa (22m ago), Dakar (22m ago), Lagos (22m ago), Abuja (22m ago), Kano (22m ago), Ibadan (22m ago), Port Harcourt (22m ago), Benin City (22m ago), Maiduguri (22m ago), Jos (22m ago), Enugu (22m ago)
+2026-03-05 12:15:03,471 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:15:03,766 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (27m ago), Accra (27m ago), Nairobi (27m ago), Cape Town (27m ago), Johannesburg (27m ago), Cairo (27m ago), Addis Ababa (27m ago), Dakar (27m ago), Lagos (27m ago), Abuja (27m ago), Kano (27m ago), Ibadan (27m ago), Port Harcourt (27m ago), Benin City (27m ago), Maiduguri (27m ago), Jos (27m ago), Enugu (27m ago)
+2026-03-05 12:15:03,980 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:15:04,164 [WARNING] [Pipeline Lag] Stale data: Kaduna (27m ago), Accra (27m ago), Nairobi (27m ago), Cape Town (27m ago), Johannesburg (27m ago), Cairo (27m ago), Addis Ababa (27m ago), Dakar (27m ago), Lagos (27m ago), Abuja (27m ago), Kano (27m ago), Ibadan (27m ago), Port Harcourt (27m ago), Benin City (27m ago), Maiduguri (27m ago), Jos (27m ago), Enugu (27m ago)
+2026-03-05 12:15:04,976 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:15:05,156 [WARNING] [Pipeline Lag] Stale data: Kaduna (27m ago), Accra (27m ago), Nairobi (27m ago), Cape Town (27m ago), Johannesburg (27m ago), Cairo (27m ago), Addis Ababa (27m ago), Dakar (27m ago), Lagos (27m ago), Abuja (27m ago), Kano (27m ago), Ibadan (27m ago), Port Harcourt (27m ago), Benin City (27m ago), Maiduguri (27m ago), Jos (27m ago), Enugu (27m ago)
+2026-03-05 12:15:08,876 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:15:09,083 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (28m ago), Accra (28m ago), Nairobi (28m ago), Cape Town (28m ago), Johannesburg (28m ago), Cairo (28m ago), Addis Ababa (28m ago), Dakar (28m ago), Lagos (28m ago), Abuja (28m ago), Kano (28m ago), Ibadan (28m ago), Port Harcourt (28m ago), Benin City (28m ago), Maiduguri (28m ago), Jos (28m ago), Enugu (28m ago)
+2026-03-05 12:20:04,852 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:20:05,284 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:20:05,418 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (32m ago), Accra (32m ago), Nairobi (32m ago), Cape Town (32m ago), Johannesburg (32m ago), Cairo (32m ago), Addis Ababa (32m ago), Dakar (32m ago), Lagos (32m ago), Abuja (32m ago), Kano (32m ago), Ibadan (32m ago), Port Harcourt (32m ago), Benin City (32m ago), Maiduguri (32m ago), Jos (32m ago), Enugu (32m ago)
+2026-03-05 12:20:05,487 [WARNING] [Pipeline Lag] Stale data: Kaduna (32m ago), Accra (32m ago), Nairobi (32m ago), Cape Town (32m ago), Johannesburg (32m ago), Cairo (32m ago), Addis Ababa (32m ago), Dakar (32m ago), Lagos (32m ago), Abuja (32m ago), Kano (32m ago), Ibadan (32m ago), Port Harcourt (32m ago), Benin City (32m ago), Maiduguri (32m ago), Jos (32m ago), Enugu (32m ago)
+2026-03-05 12:20:06,178 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:20:06,361 [WARNING] [Pipeline Lag] Stale data: Kaduna (32m ago), Accra (32m ago), Nairobi (32m ago), Cape Town (32m ago), Johannesburg (32m ago), Cairo (32m ago), Addis Ababa (32m ago), Dakar (32m ago), Lagos (32m ago), Abuja (32m ago), Kano (32m ago), Ibadan (32m ago), Port Harcourt (32m ago), Benin City (32m ago), Maiduguri (32m ago), Jos (32m ago), Enugu (32m ago)
+2026-03-05 12:20:10,141 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:20:10,355 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (33m ago), Accra (33m ago), Nairobi (33m ago), Cape Town (33m ago), Johannesburg (33m ago), Cairo (33m ago), Addis Ababa (33m ago), Dakar (33m ago), Lagos (33m ago), Abuja (33m ago), Kano (33m ago), Ibadan (33m ago), Port Harcourt (33m ago), Benin City (33m ago), Maiduguri (33m ago), Jos (33m ago), Enugu (33m ago)
+2026-03-05 12:25:06,581 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:25:06,783 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:25:07,041 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (37m ago), Accra (37m ago), Nairobi (37m ago), Cape Town (37m ago), Johannesburg (37m ago), Cairo (37m ago), Addis Ababa (37m ago), Dakar (37m ago), Lagos (37m ago), Abuja (37m ago), Kano (37m ago), Ibadan (37m ago), Port Harcourt (37m ago), Benin City (37m ago), Maiduguri (37m ago), Jos (37m ago), Enugu (37m ago)
+2026-03-05 12:25:07,077 [WARNING] [Pipeline Lag] Stale data: Kaduna (37m ago), Accra (37m ago), Nairobi (37m ago), Cape Town (37m ago), Johannesburg (37m ago), Cairo (37m ago), Addis Ababa (37m ago), Dakar (37m ago), Lagos (37m ago), Abuja (37m ago), Kano (37m ago), Ibadan (37m ago), Port Harcourt (37m ago), Benin City (37m ago), Maiduguri (37m ago), Jos (37m ago), Enugu (37m ago)
+2026-03-05 12:25:07,485 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:25:07,685 [WARNING] [Pipeline Lag] Stale data: Kaduna (37m ago), Accra (37m ago), Nairobi (37m ago), Cape Town (37m ago), Johannesburg (37m ago), Cairo (37m ago), Addis Ababa (37m ago), Dakar (37m ago), Lagos (37m ago), Abuja (37m ago), Kano (37m ago), Ibadan (37m ago), Port Harcourt (37m ago), Benin City (37m ago), Maiduguri (37m ago), Jos (37m ago), Enugu (37m ago)
+2026-03-05 12:25:11,688 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:25:11,890 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (38m ago), Accra (38m ago), Nairobi (38m ago), Cape Town (38m ago), Johannesburg (38m ago), Cairo (38m ago), Addis Ababa (38m ago), Dakar (38m ago), Lagos (38m ago), Abuja (38m ago), Kano (38m ago), Ibadan (38m ago), Port Harcourt (38m ago), Benin City (38m ago), Maiduguri (38m ago), Jos (38m ago), Enugu (38m ago)
+2026-03-05 12:33:21,586 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:33:21,831 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (46m ago), Accra (46m ago), Nairobi (46m ago), Cape Town (46m ago), Johannesburg (46m ago), Cairo (46m ago), Addis Ababa (46m ago), Dakar (46m ago), Lagos (46m ago), Abuja (46m ago), Kano (46m ago), Ibadan (46m ago), Port Harcourt (46m ago), Benin City (46m ago), Maiduguri (46m ago), Jos (46m ago), Enugu (46m ago)
+2026-03-05 12:34:02,654 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:34:02,655 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 12:34:02,655 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 12:34:02,655 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:38:22,882 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:38:23,040 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (51m ago), Accra (51m ago), Nairobi (51m ago), Cape Town (51m ago), Johannesburg (51m ago), Cairo (51m ago), Addis Ababa (51m ago), Dakar (51m ago), Lagos (51m ago), Abuja (51m ago), Kano (51m ago), Ibadan (51m ago), Port Harcourt (51m ago), Benin City (51m ago), Maiduguri (51m ago), Jos (51m ago), Enugu (51m ago)
+2026-03-05 12:39:07,130 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:39:07,350 [WARNING] ⚠️ [Pipeline Lag] Stale data: Kaduna (51m ago), Accra (51m ago), Nairobi (51m ago), Cape Town (51m ago), Johannesburg (51m ago), Cairo (51m ago), Addis Ababa (51m ago), Dakar (51m ago), Lagos (51m ago), Abuja (51m ago), Kano (51m ago), Ibadan (51m ago), Port Harcourt (51m ago), Benin City (51m ago), Maiduguri (51m ago), Jos (51m ago), Enugu (51m ago)
+2026-03-05 12:40:02,730 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:40:02,731 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 12:40:02,732 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 12:40:02,732 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:41:01,477 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:41:01,478 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 12:41:01,478 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 12:41:01,478 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:42:01,283 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:42:01,284 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 12:42:01,285 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 12:42:01,285 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:43:01,359 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:43:01,360 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 12:43:01,360 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 12:43:01,360 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:43:24,163 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:43:24,369 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 12:44:01,516 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:44:01,518 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 12:44:01,518 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 12:44:01,518 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:44:08,395 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:44:08,661 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 12:45:01,337 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:45:01,337 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 12:45:01,337 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 12:45:01,337 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:46:01,323 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:46:01,324 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 12:46:01,324 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 12:46:01,325 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:47:01,422 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:47:01,424 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 12:47:01,424 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 12:47:01,424 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:49:26,326 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:49:26,610 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 12:50:33,040 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:50:33,041 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 12:50:33,041 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 12:50:33,041 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:51:31,430 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:51:31,431 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 12:51:31,431 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 12:51:31,431 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:52:31,416 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:52:31,416 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 12:52:31,416 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 12:52:31,416 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:53:31,439 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:53:31,440 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 12:53:31,440 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 12:53:31,441 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:54:26,593 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:54:26,835 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 12:54:31,292 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:54:31,292 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 12:54:31,292 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 12:54:31,292 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:55:31,437 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:55:31,439 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 12:55:31,439 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 12:55:31,439 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:56:31,310 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:56:31,311 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 12:56:31,311 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 12:56:31,311 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:57:31,268 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:57:31,270 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 12:57:31,270 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 12:57:31,270 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:58:31,304 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:58:31,305 [INFO] [Null Fields] No nulls detected in batch 9 ✓
+2026-03-05 12:58:31,305 [INFO] [Duplicates] No duplicates in batch 9 ✓
+2026-03-05 12:58:31,305 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 12:59:26,875 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 12:59:27,123 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 12:59:31,389 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 12:59:31,389 [INFO] [Null Fields] No nulls detected in batch 10 ✓
+2026-03-05 12:59:31,389 [INFO] [Duplicates] No duplicates in batch 10 ✓
+2026-03-05 12:59:31,389 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:00:31,247 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:00:31,247 [INFO] [Null Fields] No nulls detected in batch 11 ✓
+2026-03-05 13:00:31,248 [INFO] [Duplicates] No duplicates in batch 11 ✓
+2026-03-05 13:00:31,248 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:02:12,813 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:02:13,099 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:03:02,317 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:03:02,317 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 13:03:02,318 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 13:03:02,318 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:04:01,394 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:04:01,395 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 13:04:01,395 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 13:04:01,395 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:04:27,155 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:04:27,370 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:05:01,348 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:05:01,348 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 13:05:01,348 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 13:05:01,348 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:06:01,344 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:06:01,345 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 13:06:01,346 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 13:06:01,346 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:07:01,321 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:07:01,322 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 13:07:01,322 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 13:07:01,322 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:07:13,155 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:07:13,346 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:08:01,303 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:08:01,309 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 13:08:01,309 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 13:08:01,310 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:09:01,306 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:09:01,306 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 13:09:01,306 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 13:09:01,306 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:09:27,406 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:09:27,614 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:10:01,259 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:10:01,260 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 13:10:01,260 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 13:10:01,260 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:11:01,347 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:11:01,348 [INFO] [Null Fields] No nulls detected in batch 9 ✓
+2026-03-05 13:11:01,348 [INFO] [Duplicates] No duplicates in batch 9 ✓
+2026-03-05 13:11:01,348 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:12:01,602 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:12:01,604 [INFO] [Null Fields] No nulls detected in batch 10 ✓
+2026-03-05 13:12:01,604 [INFO] [Duplicates] No duplicates in batch 10 ✓
+2026-03-05 13:12:01,604 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:12:13,383 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:12:13,619 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:13:01,416 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:13:01,418 [INFO] [Null Fields] No nulls detected in batch 11 ✓
+2026-03-05 13:13:01,418 [INFO] [Duplicates] No duplicates in batch 11 ✓
+2026-03-05 13:13:01,418 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:14:01,270 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:14:01,271 [INFO] [Null Fields] No nulls detected in batch 12 ✓
+2026-03-05 13:14:01,271 [INFO] [Duplicates] No duplicates in batch 12 ✓
+2026-03-05 13:14:01,271 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:14:27,630 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:14:27,879 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:15:01,268 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:15:01,269 [INFO] [Null Fields] No nulls detected in batch 13 ✓
+2026-03-05 13:15:01,269 [INFO] [Duplicates] No duplicates in batch 13 ✓
+2026-03-05 13:15:01,269 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:23:03,943 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:23:04,168 [CRITICAL] 🔴 [Pipeline Lag] No data in current_weather table!
+2026-03-05 13:24:03,586 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:24:03,587 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 13:24:03,587 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 13:24:03,587 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:25:01,323 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:25:01,325 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 13:25:01,325 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 13:25:01,325 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:26:01,332 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:26:01,333 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 13:26:01,333 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 13:26:01,333 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:27:01,600 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:27:01,602 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 13:27:01,602 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 13:27:01,602 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:28:01,283 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:28:01,284 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 13:28:01,284 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 13:28:01,284 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:28:04,205 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:28:04,440 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:29:01,925 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:29:01,926 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 13:29:01,927 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 13:29:01,927 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:30:01,499 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:30:01,500 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 13:30:01,501 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 13:30:01,501 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:31:01,340 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:31:01,341 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 13:31:01,341 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 13:31:01,341 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:32:01,455 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:32:01,456 [INFO] [Null Fields] No nulls detected in batch 9 ✓
+2026-03-05 13:32:01,456 [INFO] [Duplicates] No duplicates in batch 9 ✓
+2026-03-05 13:32:01,456 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:33:01,306 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:33:01,307 [INFO] [Null Fields] No nulls detected in batch 10 ✓
+2026-03-05 13:33:01,307 [INFO] [Duplicates] No duplicates in batch 10 ✓
+2026-03-05 13:33:01,307 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:33:04,473 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:33:04,711 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 13:34:01,297 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:34:01,298 [INFO] [Null Fields] No nulls detected in batch 11 ✓
+2026-03-05 13:34:01,298 [INFO] [Duplicates] No duplicates in batch 11 ✓
+2026-03-05 13:34:01,298 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:35:01,343 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:35:01,344 [INFO] [Null Fields] No nulls detected in batch 12 ✓
+2026-03-05 13:35:01,344 [INFO] [Duplicates] No duplicates in batch 12 ✓
+2026-03-05 13:35:01,344 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:38:15,619 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:38:15,895 [CRITICAL] 🔴 [Pipeline Lag] No data in current_weather table!
+2026-03-05 13:39:02,667 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 13:39:02,668 [INFO] [Null Fields] No nulls detected in batch 14 ✓
+2026-03-05 13:39:02,668 [INFO] [Duplicates] No duplicates in batch 14 ✓
+2026-03-05 13:39:02,668 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 13:52:28,383 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:52:28,902 [CRITICAL] 🔴 [Pipeline Lag] No data in current_weather table!
+2026-03-05 13:53:30,360 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 13:53:30,570 [CRITICAL] 🔴 [Pipeline Lag] No data in current_weather table!
+2026-03-05 13:54:32,398 [INFO] [Record Count] 34/17 cities ✓
+2026-03-05 13:54:32,398 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 13:54:32,398 [WARNING] [Duplicates] Duplicate city Lagos in batch 1
+2026-03-05 13:54:32,398 [WARNING] [Duplicates] Duplicate city Abuja in batch 1
+2026-03-05 13:54:32,398 [WARNING] [Duplicates] Duplicate city Kano in batch 1
+2026-03-05 13:54:32,398 [WARNING] [Duplicates] Duplicate city Ibadan in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Port Harcourt in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Benin City in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Maiduguri in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Jos in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Enugu in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Kaduna in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Accra in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Nairobi in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Cape Town in batch 1
+2026-03-05 13:54:32,399 [WARNING] [Duplicates] Duplicate city Johannesburg in batch 1
+2026-03-05 13:54:32,400 [WARNING] [Duplicates] Duplicate city Cairo in batch 1
+2026-03-05 13:54:32,400 [WARNING] [Duplicates] Duplicate city Addis Ababa in batch 1
+2026-03-05 13:54:32,400 [WARNING] [Duplicates] Duplicate city Dakar in batch 1
+2026-03-05 13:54:32,400 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:00:29,629 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:00:29,833 [CRITICAL] 🔴 [Pipeline Lag] No data in current_weather table!
+2026-03-05 14:01:32,823 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:01:32,824 [INFO] [Null Fields] No nulls detected in batch 1 ✓
+2026-03-05 14:01:32,825 [INFO] [Duplicates] No duplicates in batch 1 ✓
+2026-03-05 14:01:32,825 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:02:32,599 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:02:32,603 [INFO] [Null Fields] No nulls detected in batch 2 ✓
+2026-03-05 14:02:32,604 [INFO] [Duplicates] No duplicates in batch 2 ✓
+2026-03-05 14:02:32,604 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:03:31,432 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:03:31,432 [INFO] [Null Fields] No nulls detected in batch 3 ✓
+2026-03-05 14:03:31,433 [INFO] [Duplicates] No duplicates in batch 3 ✓
+2026-03-05 14:03:31,433 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:04:31,410 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:04:31,410 [INFO] [Null Fields] No nulls detected in batch 4 ✓
+2026-03-05 14:04:31,411 [INFO] [Duplicates] No duplicates in batch 4 ✓
+2026-03-05 14:04:31,411 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:05:29,877 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:05:30,141 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 14:05:31,387 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:05:31,388 [INFO] [Null Fields] No nulls detected in batch 5 ✓
+2026-03-05 14:05:31,388 [INFO] [Duplicates] No duplicates in batch 5 ✓
+2026-03-05 14:05:31,388 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:06:31,671 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:06:31,672 [INFO] [Null Fields] No nulls detected in batch 6 ✓
+2026-03-05 14:06:31,672 [INFO] [Duplicates] No duplicates in batch 6 ✓
+2026-03-05 14:06:31,672 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:07:31,322 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:07:31,322 [INFO] [Null Fields] No nulls detected in batch 7 ✓
+2026-03-05 14:07:31,322 [INFO] [Duplicates] No duplicates in batch 7 ✓
+2026-03-05 14:07:31,322 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:08:31,302 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:08:31,302 [INFO] [Null Fields] No nulls detected in batch 8 ✓
+2026-03-05 14:08:31,302 [INFO] [Duplicates] No duplicates in batch 8 ✓
+2026-03-05 14:08:31,302 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:09:31,343 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:09:31,343 [INFO] [Null Fields] No nulls detected in batch 9 ✓
+2026-03-05 14:09:31,343 [INFO] [Duplicates] No duplicates in batch 9 ✓
+2026-03-05 14:09:31,343 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:10:30,249 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:10:30,441 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 14:10:31,259 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:10:31,260 [INFO] [Null Fields] No nulls detected in batch 10 ✓
+2026-03-05 14:10:31,260 [INFO] [Duplicates] No duplicates in batch 10 ✓
+2026-03-05 14:10:31,260 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:11:31,507 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:11:31,508 [INFO] [Null Fields] No nulls detected in batch 11 ✓
+2026-03-05 14:11:31,508 [INFO] [Duplicates] No duplicates in batch 11 ✓
+2026-03-05 14:11:31,508 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:12:31,370 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:12:31,371 [INFO] [Null Fields] No nulls detected in batch 12 ✓
+2026-03-05 14:12:31,371 [INFO] [Duplicates] No duplicates in batch 12 ✓
+2026-03-05 14:12:31,371 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:13:31,381 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:13:31,381 [INFO] [Null Fields] No nulls detected in batch 13 ✓
+2026-03-05 14:13:31,381 [INFO] [Duplicates] No duplicates in batch 13 ✓
+2026-03-05 14:13:31,381 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:14:31,249 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:14:31,249 [INFO] [Null Fields] No nulls detected in batch 14 ✓
+2026-03-05 14:14:31,249 [INFO] [Duplicates] No duplicates in batch 14 ✓
+2026-03-05 14:14:31,249 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:15:30,472 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:15:30,709 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 14:15:31,390 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:15:31,390 [INFO] [Null Fields] No nulls detected in batch 15 ✓
+2026-03-05 14:15:31,391 [INFO] [Duplicates] No duplicates in batch 15 ✓
+2026-03-05 14:15:31,391 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:16:31,258 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:16:31,258 [INFO] [Null Fields] No nulls detected in batch 16 ✓
+2026-03-05 14:16:31,258 [INFO] [Duplicates] No duplicates in batch 16 ✓
+2026-03-05 14:16:31,258 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:17:31,263 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:17:31,264 [INFO] [Null Fields] No nulls detected in batch 17 ✓
+2026-03-05 14:17:31,264 [INFO] [Duplicates] No duplicates in batch 17 ✓
+2026-03-05 14:17:31,264 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:18:31,293 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:18:31,293 [INFO] [Null Fields] No nulls detected in batch 18 ✓
+2026-03-05 14:18:31,293 [INFO] [Duplicates] No duplicates in batch 18 ✓
+2026-03-05 14:18:31,293 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:19:31,201 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:19:31,201 [INFO] [Null Fields] No nulls detected in batch 19 ✓
+2026-03-05 14:19:31,202 [INFO] [Duplicates] No duplicates in batch 19 ✓
+2026-03-05 14:19:31,202 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:20:30,750 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:20:30,968 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 14:20:31,214 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:20:31,214 [INFO] [Null Fields] No nulls detected in batch 20 ✓
+2026-03-05 14:20:31,214 [INFO] [Duplicates] No duplicates in batch 20 ✓
+2026-03-05 14:20:31,214 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:21:31,208 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:21:31,209 [INFO] [Null Fields] No nulls detected in batch 21 ✓
+2026-03-05 14:21:31,209 [INFO] [Duplicates] No duplicates in batch 21 ✓
+2026-03-05 14:21:31,209 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:22:31,224 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:22:31,224 [INFO] [Null Fields] No nulls detected in batch 22 ✓
+2026-03-05 14:22:31,224 [INFO] [Duplicates] No duplicates in batch 22 ✓
+2026-03-05 14:22:31,224 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:23:31,205 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:23:31,206 [INFO] [Null Fields] No nulls detected in batch 23 ✓
+2026-03-05 14:23:31,206 [INFO] [Duplicates] No duplicates in batch 23 ✓
+2026-03-05 14:23:31,206 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:24:31,222 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:24:31,222 [INFO] [Null Fields] No nulls detected in batch 24 ✓
+2026-03-05 14:24:31,222 [INFO] [Duplicates] No duplicates in batch 24 ✓
+2026-03-05 14:24:31,222 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:25:31,012 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:25:31,211 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:25:31,211 [INFO] [Null Fields] No nulls detected in batch 25 ✓
+2026-03-05 14:25:31,211 [INFO] [Duplicates] No duplicates in batch 25 ✓
+2026-03-05 14:25:31,211 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:25:31,273 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 14:26:31,216 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:26:31,217 [INFO] [Null Fields] No nulls detected in batch 26 ✓
+2026-03-05 14:26:31,217 [INFO] [Duplicates] No duplicates in batch 26 ✓
+2026-03-05 14:26:31,217 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:27:31,241 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:27:31,242 [INFO] [Null Fields] No nulls detected in batch 27 ✓
+2026-03-05 14:27:31,242 [INFO] [Duplicates] No duplicates in batch 27 ✓
+2026-03-05 14:27:31,242 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:28:31,291 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:28:31,291 [INFO] [Null Fields] No nulls detected in batch 28 ✓
+2026-03-05 14:28:31,292 [INFO] [Duplicates] No duplicates in batch 28 ✓
+2026-03-05 14:28:31,292 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:29:31,225 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:29:31,227 [INFO] [Null Fields] No nulls detected in batch 29 ✓
+2026-03-05 14:29:31,227 [INFO] [Duplicates] No duplicates in batch 29 ✓
+2026-03-05 14:29:31,227 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:30:31,312 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-05 14:30:31,462 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:30:31,462 [INFO] [Null Fields] No nulls detected in batch 30 ✓
+2026-03-05 14:30:31,462 [INFO] [Duplicates] No duplicates in batch 30 ✓
+2026-03-05 14:30:31,465 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:30:31,551 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-05 14:31:31,200 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:31:31,200 [INFO] [Null Fields] No nulls detected in batch 31 ✓
+2026-03-05 14:31:31,200 [INFO] [Duplicates] No duplicates in batch 31 ✓
+2026-03-05 14:31:31,200 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-05 14:32:31,299 [INFO] [Record Count] 17/17 cities ✓
+2026-03-05 14:32:31,300 [INFO] [Null Fields] No nulls detected in batch 32 ✓
+2026-03-05 14:32:31,300 [INFO] [Duplicates] No duplicates in batch 32 ✓
+2026-03-05 14:32:31,300 [INFO] [Temperature Anomaly] All temperatures within range ✓

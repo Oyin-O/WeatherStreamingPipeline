@@ -93,16 +93,18 @@ def transform_record(record):
     precip_mm = record.get('precipitation_mm')
     code = record.get('weather_code')
     city = record.get('city', 'Unknown')
+    raw_ts = record.get('timestamp')
 
-    # ✅ Convert UTC timestamp to local time
-    local_timestamp = get_local_timestamp(record.get('timestamp'), city)
+    utc_timestamp = raw_ts
+    local_time = get_local_timestamp(raw_ts, city)
 
     weather_desc = get_weather_description(code)
     alert_level = classify_alert(temp_c, wind_kmh, precip_mm, code)
 
     return {
         **record,
-        'timestamp': local_timestamp,
+        'timestamp': utc_timestamp,
+        'local_timestamp': local_time,
         'weather_description': weather_desc,
         'alert_level': alert_level,
         'alert_message': get_alert_message(
@@ -110,3 +112,4 @@ def transform_record(record):
             alert_level, temp_c, wind_kmh, precip_mm, weather_desc
         )
     }
+

@@ -5,7 +5,7 @@ import pytz
 import streamlit as st
 
 st.set_page_config(
-    page_title="Nigeria Weather Stream",
+    page_title="Weather Stream",
     page_icon="🌦",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -16,9 +16,10 @@ from sqldatabase import (
     get_aggregate_stats,
     get_active_alerts,
     get_current_weather,
-    get_weather_history,
+    get_weather_history
 )
-from comps import (
+
+from streamlit_ui import (
     inject_global_styles,
     render_header,
     render_stats,
@@ -30,7 +31,6 @@ from comps import (
     render_city_comparison,
     render_download_button
 )
-
 
 REFRESH_INTERVAL = 10
 
@@ -60,10 +60,10 @@ with st.sidebar:
     """, unsafe_allow_html=True)
 
 # ── data fetch ─────────────────────────────────────────────────
-now_str    = datetime.now(timezone.utc)
-stats      = get_aggregate_stats()
+now_str = datetime.now(timezone.utc)
+stats = get_aggregate_stats()
 current_df = get_current_weather()
-alerts_df  = get_active_alerts()
+alerts_df = get_active_alerts()
 history_df = get_weather_history(cities=selected_cities, hours=hours)
 
 # ── layout ─────────────────────────────────────────────────────
