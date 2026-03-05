@@ -4,10 +4,12 @@ import psycopg2
 import pandas as pd
 import os
 from dotenv import load_dotenv
+import streamlit as st
 
 from producer.config import CITIES
 from spark.email_alerts import send_pipeline_error
 from spark.transformation_config import DATA_QUALITY
+from dashboard.dbconfig import DB_URL
 
 LOG_PATH = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
@@ -37,8 +39,6 @@ MAX_LAG_MINUTES = DATA_QUALITY['max_lag_minutes']
 CRITICAL_FIELDS = DATA_QUALITY['critical_fields']
 
 load_dotenv()
-
-DB_URL = os.getenv('DB_URL')
 
 CRITICAL_FIELDS = [
     'temperature_c', 'wind_speed_kmh',

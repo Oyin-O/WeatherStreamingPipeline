@@ -2,10 +2,10 @@ import psycopg2
 import pandas as pd
 from dotenv import load_dotenv
 import os
+import streamlit as st
+from dashboard.dbconfig import DB_URL
 
 load_dotenv()
-
-DB_URL = os.getenv('DB_URL')
 
 
 def _get_connection():
