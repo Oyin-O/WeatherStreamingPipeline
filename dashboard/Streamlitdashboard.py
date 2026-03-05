@@ -12,14 +12,14 @@ st.set_page_config(
 )
 
 # local imports (must come after set_page_config)
-from sqldatabase import (
+from dashboard.sqldatabase import (
     get_aggregate_stats,
     get_active_alerts,
     get_current_weather,
     get_weather_history
 )
 
-from streamlit_ui import (
+from dashboard.streamlit_ui import (
     inject_global_styles,
     render_header,
     render_stats,
