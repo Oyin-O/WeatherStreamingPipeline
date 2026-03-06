@@ -7,9 +7,9 @@ from dotenv import load_dotenv
 import streamlit as st
 
 from producer.config import CITIES
-from spark.email_alerts import send_pipeline_error
-from spark.transformation_config import DATA_QUALITY
-from dashboard.dbconfig import DB_URL
+from consumer.email_alerts import send_pipeline_error
+from consumer.transformation_config import DATA_QUALITY
+from dashboard.db_config import DB_URL
 
 LOG_PATH = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
@@ -130,7 +130,7 @@ def check_pipeline_lag():
         if stale_cities:
             logger.warning(f"⚠️ [Pipeline Lag] Stale data: {', '.join(stale_cities)}")
             try:
-                from spark.email_alerts import send_pipeline_error
+                from consumer.email_alerts import send_pipeline_error
                 send_pipeline_error(f"Stale data detected:\n{chr(10).join(stale_cities)}")
             except Exception as e:
                 logger.error(f"Failed to send email: {e}")

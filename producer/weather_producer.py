@@ -10,7 +10,7 @@ from kafka.errors import NoBrokersAvailable
 from producer.config import KAFKA_BOOTSTRAP_SERVERS, CITIES, KAFKA_TOPIC, \
     API_BASE_URL, POLL_INTERVAL_SECONDS, WEATHER_PARAMS
 
-from spark.email_alerts import send_pipeline_error
+from consumer.email_alerts import send_pipeline_error
 
 sys.path.insert(0, '.')
 

@@ -16,9 +16,9 @@ from pyspark.sql.types import (
     StructType
 )
 
-from spark.transformations import transform_record
-from spark.email_alerts import send_weather_alert, send_pipeline_error
-from spark.data_quality import run_data_quality_checks
+from consumer.transformations import transform_record
+from consumer.email_alerts import send_weather_alert, send_pipeline_error
+from consumer.data_quality import run_data_quality_checks
 
 
 load_dotenv()

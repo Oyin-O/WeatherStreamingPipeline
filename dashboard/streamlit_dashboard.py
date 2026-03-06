@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # local imports (must come after set_page_config)
-from dashboard.sqldatabase import (
+from dashboard.sql_database import (
     get_aggregate_stats,
     get_active_alerts,
     get_current_weather,

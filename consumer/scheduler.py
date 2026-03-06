@@ -3,8 +3,8 @@ import time
 import logging
 import psycopg2
 import pandas as pd
-from dashboard.dbconfig import DB_URL
-from spark.email_alerts import send_daily_summary
+from dashboard.db_config import DB_URL
+from consumer.email_alerts import send_daily_summary
 
 logger = logging.getLogger(__name__)
 

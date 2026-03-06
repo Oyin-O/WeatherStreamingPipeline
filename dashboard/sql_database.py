@@ -1,6 +1,6 @@
 import psycopg2
 import pandas as pd
-from dashboard.dbconfig import DB_URL
+from dashboard.db_config import DB_URL
 
 
 def _get_connection():

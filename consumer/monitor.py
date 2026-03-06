@@ -1,7 +1,7 @@
 import schedule
 import time
 import logging
-from spark.data_quality import check_pipeline_lag
+from consumer.data_quality import check_pipeline_lag
 
 logging.basicConfig(
     level=logging.INFO,

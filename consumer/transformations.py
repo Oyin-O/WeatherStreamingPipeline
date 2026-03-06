@@ -1,6 +1,6 @@
 from datetime import datetime, timezone
 import pytz
-from spark.transformation_config import (
+from consumer.transformation_config import (
     WMO_CODES,
     ALERT_THRESHOLDS,
     ALERT_MESSAGE_THRESHOLDS,

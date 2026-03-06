@@ -4,23 +4,17 @@ import os
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime, timezone
-import streamlit as st
+from dotenv import load_dotenv
 
+load_dotenv()
 
 
 logger = logging.getLogger(__name__)
 
-try:
-    DB_URL = st.secrets["DB_URL"]
-    GMAIL_SENDER = st.secrets["GMAIL_SENDER"]
-    GMAIL_PASSWORD = st.secrets["GMAIL_PASSWORD"]
-    GMAIL_RECIPIENT = st.secrets["GMAIL_RECIPIENT"]
-except Exception:
-    from dotenv import load_dotenv
-    load_dotenv()
-    GMAIL_SENDER = os.getenv("GMAIL_SENDER")
-    GMAIL_PASSWORD = os.getenv("GMAIL_PASSWORD")
-    GMAIL_RECIPIENT = os.getenv("GMAIL_RECIPIENT")
+
+GMAIL_SENDER = os.getenv("GMAIL_SENDER")
+GMAIL_PASSWORD = os.getenv("GMAIL_PASSWORD")
+GMAIL_RECIPIENT = os.getenv("GMAIL_RECIPIENT")
 
 
 def _send_email(subject: str, html_body: str):
