@@ -1,3 +1,6 @@
 .env
 *.log
+*.log.*
 data
+data_quality.log
+pipeline.log
