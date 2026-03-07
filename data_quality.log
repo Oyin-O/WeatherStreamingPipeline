@@ -2088,3 +2088,31 @@
 2026-03-07 00:28:01,185 [INFO] [Null Fields] No nulls detected in batch 216 ✓
 2026-03-07 00:28:01,185 [INFO] [Duplicates] No duplicates in batch 216 ✓
 2026-03-07 00:28:01,185 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:29:01,288 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:29:01,289 [INFO] [Null Fields] No nulls detected in batch 217 ✓
+2026-03-07 00:29:01,289 [INFO] [Duplicates] No duplicates in batch 217 ✓
+2026-03-07 00:29:01,289 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:30:01,213 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:30:01,213 [INFO] [Null Fields] No nulls detected in batch 218 ✓
+2026-03-07 00:30:01,214 [INFO] [Duplicates] No duplicates in batch 218 ✓
+2026-03-07 00:30:01,214 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:31:01,262 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:31:01,262 [INFO] [Null Fields] No nulls detected in batch 219 ✓
+2026-03-07 00:31:01,262 [INFO] [Duplicates] No duplicates in batch 219 ✓
+2026-03-07 00:31:01,262 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:31:21,852 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-07 00:31:22,102 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-07 00:31:32,263 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-07 00:31:32,471 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-07 00:32:01,195 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:32:01,195 [INFO] [Null Fields] No nulls detected in batch 220 ✓
+2026-03-07 00:32:01,196 [INFO] [Duplicates] No duplicates in batch 220 ✓
+2026-03-07 00:32:01,196 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:33:01,184 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:33:01,184 [INFO] [Null Fields] No nulls detected in batch 221 ✓
+2026-03-07 00:33:01,184 [INFO] [Duplicates] No duplicates in batch 221 ✓
+2026-03-07 00:33:01,184 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:34:01,210 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:34:01,210 [INFO] [Null Fields] No nulls detected in batch 222 ✓
+2026-03-07 00:34:01,210 [INFO] [Duplicates] No duplicates in batch 222 ✓
+2026-03-07 00:34:01,210 [INFO] [Temperature Anomaly] All temperatures within range ✓
