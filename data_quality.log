@@ -2064,3 +2064,27 @@
 2026-03-07 00:23:01,229 [INFO] [Null Fields] No nulls detected in batch 211 ✓
 2026-03-07 00:23:01,229 [INFO] [Duplicates] No duplicates in batch 211 ✓
 2026-03-07 00:23:01,229 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:24:01,186 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:24:01,186 [INFO] [Null Fields] No nulls detected in batch 212 ✓
+2026-03-07 00:24:01,186 [INFO] [Duplicates] No duplicates in batch 212 ✓
+2026-03-07 00:24:01,186 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:25:01,193 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:25:01,193 [INFO] [Null Fields] No nulls detected in batch 213 ✓
+2026-03-07 00:25:01,193 [INFO] [Duplicates] No duplicates in batch 213 ✓
+2026-03-07 00:25:01,194 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:26:01,401 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:26:01,403 [INFO] [Null Fields] No nulls detected in batch 214 ✓
+2026-03-07 00:26:01,403 [INFO] [Duplicates] No duplicates in batch 214 ✓
+2026-03-07 00:26:01,403 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:26:21,583 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-07 00:26:21,794 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-07 00:26:32,001 [INFO] 🔍 Checking pipeline lag / data freshness...
+2026-03-07 00:26:32,225 [INFO] ✅ [Pipeline Lag] All cities updated within 10 minutes ✓
+2026-03-07 00:27:01,191 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:27:01,191 [INFO] [Null Fields] No nulls detected in batch 215 ✓
+2026-03-07 00:27:01,191 [INFO] [Duplicates] No duplicates in batch 215 ✓
+2026-03-07 00:27:01,191 [INFO] [Temperature Anomaly] All temperatures within range ✓
+2026-03-07 00:28:01,185 [INFO] [Record Count] 17/17 cities ✓
+2026-03-07 00:28:01,185 [INFO] [Null Fields] No nulls detected in batch 216 ✓
+2026-03-07 00:28:01,185 [INFO] [Duplicates] No duplicates in batch 216 ✓
+2026-03-07 00:28:01,185 [INFO] [Temperature Anomaly] All temperatures within range ✓
