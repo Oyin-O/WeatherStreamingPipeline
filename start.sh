@@ -51,7 +51,7 @@ sleep 15
 echo -e "${YELLOW}▶ Starting Streamlit Dashboard...${NC}"
 osascript -e "
 tell application \"Terminal\"
-    do script \"cd '$PROJECT_DIR' && source '$VENV' && streamlit run dashboard/streamlit_dashboard.py\"
+    do script \"cd '$PROJECT_DIR' && source '$VENV' && streamlit run app.py\"
 end tell"
 echo -e "${GREEN}✅ Dashboard started${NC}"
 
