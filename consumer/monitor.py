@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 schedule.every(5).minutes.do(check_pipeline_lag)
 
 if __name__ == "__main__":
-    logger.info("🔍 Pipeline Lag Monitor started — checking every 5 minutes")
+    logger.info("Pipeline Lag Monitor started — checking every 5 minutes")
     check_pipeline_lag()
     while True:
         schedule.run_pending()
