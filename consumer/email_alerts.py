@@ -186,5 +186,5 @@ def send_pipeline_error(error_message: str, batch_id: int = None):
     </div>
     """
 
-    subject = "❌ Weather Pipeline Error"
+    subject = "Weather Pipeline Error"
     _send_email(subject, _base_template("Pipeline Error Detected", "#ef4444", content))

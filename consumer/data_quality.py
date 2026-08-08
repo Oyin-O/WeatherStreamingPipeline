@@ -110,7 +110,7 @@ def check_pipeline_lag():
         conn.close()
 
         if df.empty:
-            logger.critical("🔴 [Pipeline Lag] No data in current_weather table!")
+            logger.critical("[Pipeline Lag] No data in current_weather table!")
             return
 
         now_utc = datetime.now(timezone.utc)
@@ -119,7 +119,7 @@ def check_pipeline_lag():
         for _, row in df.iterrows():
             ts = row['timestamp']
             try:
-                # ✅ Simple UTC comparison — no timezone conversion needed!
+                #Simple UTC comparison — no timezone conversion needed!
                 ts_dt = datetime.fromisoformat(ts).replace(tzinfo=timezone.utc)
                 lag_minutes = (now_utc - ts_dt).total_seconds() / 60
                 if lag_minutes > MAX_LAG_MINUTES:
@@ -128,14 +128,14 @@ def check_pipeline_lag():
                 continue
 
         if stale_cities:
-            logger.warning(f"⚠️ [Pipeline Lag] Stale data: {', '.join(stale_cities)}")
+            logger.warning(f"[Pipeline Lag] Stale data: {', '.join(stale_cities)}")
             try:
                 from consumer.email_alerts import send_pipeline_error
                 send_pipeline_error(f"Stale data detected:\n{chr(10).join(stale_cities)}")
             except Exception as e:
                 logger.error(f"Failed to send email: {e}")
         else:
-            logger.info(f"✅ [Pipeline Lag] All cities updated within {MAX_LAG_MINUTES} minutes ✓")
+            logger.info(f"[Pipeline Lag] All cities updated within {MAX_LAG_MINUTES} minutes ✓")
 
     except Exception as e:
-        logger.error(f"🔴 [Pipeline Lag] Check failed: {e}")
+        logger.error(f"[Pipeline Lag] Check failed: {e}")
